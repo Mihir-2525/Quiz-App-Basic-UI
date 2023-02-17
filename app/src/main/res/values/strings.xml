@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="upgrade">UPGRADE</string>
+    <string name="button">Button</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="question_count">Question Count</string>
+    <string name="_200">200</string>
+    <string name="erned_point">Erned Point</string>
+    <string name="_5000">5000</string>
+    <string name="art_and_literature">Art and Literature</string>
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="science_and_nature">Science and Nature</string>
+    <string name="technology">Technology</string>
+    <string name="science_nature"><![CDATA[Science & Nature]]></string>
+    <string name="question">1. Which space agencyhas decided to carry out first all-female spacewalk at the international Space Station (ISS)?</string>
+    <string name="nasa">NASA</string>
+    <string name="quiz_60">Quiz : 60</string>
+    <string name="_03_00_min">03:00 min</string>
+    <string name="roscosmos">RosCosMos</string>
+    <string name="jaxa">JAXA</string>
+    <string name="isro">ISRO</string>
+    <string name="congrats">Congrats!</string>
+    <string name="_90_score">90% Score</string>
+    <string name="quiz_completed_successfully">Quiz Completed Successfully</string>
+    <string name="you_attempt">You attempt</string>
+    <string name="_60_question"> 60 question </string>
+    <string name="and">and</string>
+    <string name="from_that">from that</string>
+    <string name="_55_answer"> 55 Answer </string>
+    <string name="is_correct">is correct.</string>
+    <string name="share_with_us">Share with us :</string>
+</resources>
