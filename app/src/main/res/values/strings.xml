@@ -23,10 +23,10 @@
     <string name="_90_score">90% Score</string>
     <string name="quiz_completed_successfully">Quiz Completed Successfully</string>
     <string name="you_attempt">You attempt</string>
-    <string name="_60_question"> 60 question </string>
+    <string name="_60_question">" 60 question "</string>
     <string name="and">and</string>
     <string name="from_that">from that</string>
-    <string name="_55_answer"> 55 Answer </string>
+    <string name="_55_answer">" 55 Answer "</string>
     <string name="is_correct">is correct.</string>
     <string name="share_with_us">Share with us :</string>
 </resources>
